@@ -1,0 +1,730 @@
+District_Key,State,District,mvacc,fvacc
+AN_Nicobars,Andaman and Nicobar Islands,Nicobars,16267.0,13922.0
+AN_North and Middle Andaman,Andaman and Nicobar Islands,North and Middle Andaman,50819.0,46493.0
+AN_South Andaman,Andaman and Nicobar Islands,South Andaman,108324.0,94124.0
+AP_Anantapur,Andhra Pradesh,Anantapur,893118.0,1067715.0
+AP_Chittoor,Andhra Pradesh,Chittoor,1004937.0,1201195.0
+AP_East Godavari,Andhra Pradesh,East Godavari,1125958.0,1353691.0
+AP_Guntur,Andhra Pradesh,Guntur,1087696.0,1262966.0
+AP_Krishna,Andhra Pradesh,Krishna,1090145.0,1223327.0
+AP_Kurnool,Andhra Pradesh,Kurnool,744366.0,990736.0
+AP_Prakasam,Andhra Pradesh,Prakasam,800299.0,947172.0
+AP_S.P.S. Nellore,Andhra Pradesh,S.P.S. Nellore,783012.0,903421.0
+AP_Srikakulam,Andhra Pradesh,Srikakulam,588757.0,776653.0
+AP_Visakhapatnam,Andhra Pradesh,Visakhapatnam,1213497.0,1284911.0
+AP_Vizianagaram,Andhra Pradesh,Vizianagaram,508414.0,632536.0
+AP_West Godavari,Andhra Pradesh,West Godavari,915758.0,1158484.0
+AP_Y.S.R. Kadapa,Andhra Pradesh,Y.S.R. Kadapa,648196.0,790287.0
+AR_Anjaw,Arunachal Pradesh,Anjaw,7421.0,6049.0
+AR_Changlang,Arunachal Pradesh,Changlang,52485.0,39999.0
+AR_East Kameng,Arunachal Pradesh,East Kameng,14088.0,12512.0
+AR_East Siang,Arunachal Pradesh,East Siang,35092.0,32296.0
+AR_Kamle,Arunachal Pradesh,Kamle,4465.0,3271.0
+AR_Kra Daadi,Arunachal Pradesh,Kra Daadi,4013.0,3565.0
+AR_Kurung Kumey,Arunachal Pradesh,Kurung Kumey,5488.0,5830.0
+AR_Lepa Rada,Arunachal Pradesh,Lepa Rada,10167.0,7745.0
+AR_Lohit,Arunachal Pradesh,Lohit,19439.0,15148.0
+AR_Longding,Arunachal Pradesh,Longding,13295.0,7939.0
+AR_Lower Dibang Valley,Arunachal Pradesh,Lower Dibang Valley,20836.0,16988.0
+AR_Lower Siang,Arunachal Pradesh,Lower Siang,10902.0,9356.0
+AR_Lower Subansiri,Arunachal Pradesh,Lower Subansiri,17633.0,15328.0
+AR_Namsai,Arunachal Pradesh,Namsai,37966.0,32484.0
+AR_Pakke Kessang,Arunachal Pradesh,Pakke Kessang,5619.0,5027.0
+AR_Papum Pare,Arunachal Pradesh,Papum Pare,93812.0,67749.0
+AR_Shi Yomi,Arunachal Pradesh,Shi Yomi,4608.0,4409.0
+AR_Siang,Arunachal Pradesh,Siang,9541.0,8605.0
+AR_Tawang,Arunachal Pradesh,Tawang,20213.0,16614.0
+AR_Tirap,Arunachal Pradesh,Tirap,19961.0,14679.0
+AR_Upper Dibang Valley,Arunachal Pradesh,Upper Dibang Valley,3222.0,1927.0
+AR_Upper Siang,Arunachal Pradesh,Upper Siang,12729.0,11102.0
+AR_Upper Subansiri,Arunachal Pradesh,Upper Subansiri,15934.0,14427.0
+AR_West Kameng,Arunachal Pradesh,West Kameng,35682.0,27863.0
+AR_West Siang,Arunachal Pradesh,West Siang,24017.0,20941.0
+AS_Baksa,Assam,Baksa,161752.0,145325.0
+AS_Barpeta,Assam,Barpeta,334955.0,301784.0
+AS_Biswanath,Assam,Biswanath,199345.0,193578.0
+AS_Bongaigaon,Assam,Bongaigaon,167122.0,159531.0
+AS_Cachar,Assam,Cachar,318223.0,271871.0
+AS_Charaideo,Assam,Charaideo,118687.0,112830.0
+AS_Chirang,Assam,Chirang,101636.0,82407.0
+AS_Darrang,Assam,Darrang,178438.0,159711.0
+AS_Dhemaji,Assam,Dhemaji,168030.0,167597.0
+AS_Dhubri,Assam,Dhubri,218910.0,183452.0
+AS_Dibrugarh,Assam,Dibrugarh,359121.0,335778.0
+AS_Dima Hasao,Assam,Dima Hasao,60304.0,43214.0
+AS_Goalpara,Assam,Goalpara,178545.0,168299.0
+AS_Golaghat,Assam,Golaghat,303589.0,274327.0
+AS_Hailakandi,Assam,Hailakandi,150144.0,129305.0
+AS_Hojai,Assam,Hojai,204419.0,171329.0
+AS_Jorhat,Assam,Jorhat,309141.0,293918.0
+AS_Kamrup,Assam,Kamrup,390467.0,361614.0
+AS_Kamrup Metropolitan,Assam,Kamrup Metropolitan,746106.0,587937.0
+AS_Karbi Anglong,Assam,Karbi Anglong,103064.0,84126.0
+AS_Karimganj,Assam,Karimganj,192259.0,151642.0
+AS_Kokrajhar,Assam,Kokrajhar,169648.0,142666.0
+AS_Lakhimpur,Assam,Lakhimpur,261914.0,247578.0
+AS_Majuli,Assam,Majuli,67678.0,62809.0
+AS_Morigaon,Assam,Morigaon,206051.0,198764.0
+AS_Nagaon,Assam,Nagaon,384039.0,355489.0
+AS_Nalbari,Assam,Nalbari,164472.0,153398.0
+AS_Sivasagar,Assam,Sivasagar,213607.0,200652.0
+AS_Sonitpur,Assam,Sonitpur,359411.0,345859.0
+AS_South Salmara Mankachar,Assam,South Salmara Mankachar,83711.0,71859.0
+AS_Tinsukia,Assam,Tinsukia,251799.0,232087.0
+AS_Udalguri,Assam,Udalguri,139661.0,126642.0
+AS_West Karbi Anglong,Assam,West Karbi Anglong,50046.0,37263.0
+BR_Araria,Bihar,Araria,343879.0,326895.0
+BR_Arwal,Bihar,Arwal,124793.0,117592.0
+BR_Aurangabad,Bihar,Aurangabad,332978.0,279664.0
+BR_Banka,Bihar,Banka,296289.0,268871.0
+BR_Begusarai,Bihar,Begusarai,435677.0,390655.0
+BR_Bhagalpur,Bihar,Bhagalpur,565781.0,499081.0
+BR_Bhojpur,Bihar,Bhojpur,387016.0,308473.0
+BR_Buxar,Bihar,Buxar,270552.0,217329.0
+BR_Darbhanga,Bihar,Darbhanga,590399.0,572378.0
+BR_East Champaran,Bihar,East Champaran,778870.0,611107.0
+BR_Gaya,Bihar,Gaya,616267.0,541968.0
+BR_Gopalganj,Bihar,Gopalganj,367748.0,252090.0
+BR_Jamui,Bihar,Jamui,238504.0,205994.0
+BR_Jehanabad,Bihar,Jehanabad,172902.0,163183.0
+BR_Kaimur,Bihar,Kaimur,214519.0,174601.0
+BR_Katihar,Bihar,Katihar,376275.0,339811.0
+BR_Khagaria,Bihar,Khagaria,212936.0,210518.0
+BR_Kishanganj,Bihar,Kishanganj,211982.0,174667.0
+BR_Lakhisarai,Bihar,Lakhisarai,130250.0,124672.0
+BR_Madhepura,Bihar,Madhepura,247793.0,236010.0
+BR_Madhubani,Bihar,Madhubani,561367.0,573304.0
+BR_Munger,Bihar,Munger,241398.0,205020.0
+BR_Muzaffarpur,Bihar,Muzaffarpur,681276.0,579695.0
+BR_Nalanda,Bihar,Nalanda,485480.0,453948.0
+BR_Nawada,Bihar,Nawada,297736.0,274069.0
+BR_Patna,Bihar,Patna,1866339.0,1498920.0
+BR_Purnia,Bihar,Purnia,517400.0,475219.0
+BR_Rohtas,Bihar,Rohtas,438079.0,345039.0
+BR_Saharsa,Bihar,Saharsa,255935.0,247236.0
+BR_Samastipur,Bihar,Samastipur,584410.0,555366.0
+BR_Saran,Bihar,Saran,667472.0,579317.0
+BR_Sheikhpura,Bihar,Sheikhpura,101860.0,94493.0
+BR_Sheohar,Bihar,Sheohar,103725.0,103499.0
+BR_Sitamarhi,Bihar,Sitamarhi,422220.0,421547.0
+BR_Siwan,Bihar,Siwan,608551.0,481125.0
+BR_Supaul,Bihar,Supaul,278541.0,257142.0
+BR_Vaishali,Bihar,Vaishali,483687.0,439163.0
+BR_West Champaran,Bihar,West Champaran,517885.0,392183.0
+CH_Chandigarh,Chandigarh,Chandigarh,557241.0,420544.0
+CT_Balod,Chhattisgarh,Balod,210865.0,234071.0
+CT_Baloda Bazar,Chhattisgarh,Baloda Bazar,214264.0,216550.0
+CT_Balrampur,Chhattisgarh,Balrampur,123684.0,111025.0
+CT_Bametara,Chhattisgarh,Bametara,111386.0,111920.0
+CT_Bastar,Chhattisgarh,Bastar,174108.0,166414.0
+CT_Bijapur,Chhattisgarh,Bijapur,63754.0,43756.0
+CT_Bilaspur,Chhattisgarh,Bilaspur,388572.0,379882.0
+CT_Dakshin Bastar Dantewada,Chhattisgarh,Dakshin Bastar Dantewada,75189.0,71704.0
+CT_Dhamtari,Chhattisgarh,Dhamtari,190828.0,211015.0
+CT_Durg,Chhattisgarh,Durg,440442.0,430264.0
+CT_Gariaband,Chhattisgarh,Gariaband,99499.0,107007.0
+CT_Gaurela Pendra Marwahi,Chhattisgarh,Gaurela Pendra Marwahi,65357.0,68115.0
+CT_Janjgir Champa,Chhattisgarh,Janjgir Champa,291745.0,289669.0
+CT_Jashpur,Chhattisgarh,Jashpur,156054.0,170738.0
+CT_Kabeerdham,Chhattisgarh,Kabeerdham,161791.0,157497.0
+CT_Kondagaon,Chhattisgarh,Kondagaon,100419.0,102487.0
+CT_Korba,Chhattisgarh,Korba,271406.0,269953.0
+CT_Koriya,Chhattisgarh,Koriya,117522.0,112209.0
+CT_Mahasamund,Chhattisgarh,Mahasamund,292394.0,314254.0
+CT_Mungeli,Chhattisgarh,Mungeli,119866.0,124576.0
+CT_Narayanpur,Chhattisgarh,Narayanpur,27036.0,19771.0
+CT_Raigarh,Chhattisgarh,Raigarh,592295.0,578930.0
+CT_Raipur,Chhattisgarh,Raipur,814747.0,736607.0
+CT_Rajnandgaon,Chhattisgarh,Rajnandgaon,418124.0,437155.0
+CT_Sukma,Chhattisgarh,Sukma,80326.0,59254.0
+CT_Surajpur,Chhattisgarh,Surajpur,141552.0,136943.0
+CT_Surguja,Chhattisgarh,Surguja,215879.0,219738.0
+CT_Uttar Bastar Kanker,Chhattisgarh,Uttar Bastar Kanker,162554.0,154780.0
+DL_Central Delhi,Delhi,Central Delhi,682495.0,443658.0
+DL_East Delhi,Delhi,East Delhi,491672.0,387573.0
+DL_New Delhi,Delhi,New Delhi,574185.0,393840.0
+DL_North Delhi,Delhi,North Delhi,519068.0,371886.0
+DL_North East Delhi,Delhi,North East Delhi,395097.0,291369.0
+DL_North West Delhi,Delhi,North West Delhi,742852.0,603249.0
+DL_Shahdara,Delhi,Shahdara,439920.0,342673.0
+DL_South Delhi,Delhi,South Delhi,735839.0,512510.0
+DL_South East Delhi,Delhi,South East Delhi,653772.0,442137.0
+DL_South West Delhi,Delhi,South West Delhi,705431.0,564180.0
+DL_West Delhi,Delhi,West Delhi,677640.0,542352.0
+DN_Dadra and Nagar Haveli,Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,271372.0,119732.0
+DN_Daman,Dadra and Nagar Haveli and Daman and Diu,Daman,162687.0,83317.0
+DN_Diu,Dadra and Nagar Haveli and Daman and Diu,Diu,25901.0,25653.0
+GA_North Goa,Goa,North Goa,375872.0,310651.0
+GA_South Goa,Goa,South Goa,399857.0,356215.0
+GJ_Ahmedabad,Gujarat,Ahmedabad,3051656.0,2325035.0
+GJ_Amreli,Gujarat,Amreli,423697.0,411811.0
+GJ_Anand,Gujarat,Anand,653255.0,589004.0
+GJ_Aravalli,Gujarat,Aravalli,343470.0,324378.0
+GJ_Banaskantha,Gujarat,Banaskantha,1011879.0,828789.0
+GJ_Bharuch,Gujarat,Bharuch,603678.0,447377.0
+GJ_Bhavnagar,Gujarat,Bhavnagar,706414.0,625260.0
+GJ_Botad,Gujarat,Botad,186090.0,175207.0
+GJ_Chhota Udaipur,Gujarat,Chhota Udaipur,315237.0,270306.0
+GJ_Dahod,Gujarat,Dahod,558169.0,530655.0
+GJ_Dang,Gujarat,Dang,47031.0,40554.0
+GJ_Devbhumi Dwarka,Gujarat,Devbhumi Dwarka,291677.0,252864.0
+GJ_Gandhinagar,Gujarat,Gandhinagar,645028.0,536205.0
+GJ_Gir Somnath,Gujarat,Gir Somnath,371002.0,313470.0
+GJ_Jamnagar,Gujarat,Jamnagar,577182.0,483622.0
+GJ_Junagadh,Gujarat,Junagadh,529418.0,501276.0
+GJ_Kheda,Gujarat,Kheda,630328.0,526264.0
+GJ_Kutch,Gujarat,Kutch,683270.0,521974.0
+GJ_Mahisagar,Gujarat,Mahisagar,345604.0,317483.0
+GJ_Mehsana,Gujarat,Mehsana,694421.0,632486.0
+GJ_Morbi,Gujarat,Morbi,290004.0,246143.0
+GJ_Narmada,Gujarat,Narmada,216097.0,195032.0
+GJ_Navsari,Gujarat,Navsari,436970.0,427948.0
+GJ_Panchmahal,Gujarat,Panchmahal,481890.0,420441.0
+GJ_Patan,Gujarat,Patan,391279.0,361413.0
+GJ_Porbandar,Gujarat,Porbandar,232105.0,217190.0
+GJ_Rajkot,Gujarat,Rajkot,1246052.0,1044365.0
+GJ_Sabarkantha,Gujarat,Sabarkantha,478189.0,437552.0
+GJ_Surat,Gujarat,Surat,2512075.0,1717944.0
+GJ_Surendranagar,Gujarat,Surendranagar,466021.0,422030.0
+GJ_Tapi,Gujarat,Tapi,247385.0,221131.0
+GJ_Vadodara,Gujarat,Vadodara,1501198.0,1271855.0
+GJ_Valsad,Gujarat,Valsad,582834.0,448913.0
+HP_Bilaspur,Himachal Pradesh,Bilaspur,188778.0,201238.0
+HP_Chamba,Himachal Pradesh,Chamba,188754.0,198623.0
+HP_Hamirpur,Himachal Pradesh,Hamirpur,226646.0,266247.0
+HP_Kangra,Himachal Pradesh,Kangra,660980.0,733625.0
+HP_Kinnaur,Himachal Pradesh,Kinnaur,54866.0,42117.0
+HP_Kullu,Himachal Pradesh,Kullu,196029.0,186931.0
+HP_Lahaul and Spiti,Himachal Pradesh,Lahaul and Spiti,20471.0,15123.0
+HP_Mandi,Himachal Pradesh,Mandi,430434.0,491218.0
+HP_Shimla,Himachal Pradesh,Shimla,393838.0,356921.0
+HP_Sirmaur,Himachal Pradesh,Sirmaur,214990.0,186931.0
+HP_Solan,Himachal Pradesh,Solan,402415.0,282137.0
+HP_Una,Himachal Pradesh,Una,257724.0,266089.0
+HR_Ambala,Haryana,Ambala,477232.0,428156.0
+HR_Bhiwani,Haryana,Bhiwani,275547.0,248973.0
+HR_Charkhi Dadri,Haryana,Charkhi Dadri,203031.0,193097.0
+HR_Faridabad,Haryana,Faridabad,787163.0,563154.0
+HR_Fatehabad,Haryana,Fatehabad,214657.0,194255.0
+HR_Gurugram,Haryana,Gurugram,1248779.0,813036.0
+HR_Hisar,Haryana,Hisar,334781.0,286204.0
+HR_Jhajjar,Haryana,Jhajjar,275247.0,222296.0
+HR_Jind,Haryana,Jind,220230.0,199373.0
+HR_Kaithal,Haryana,Kaithal,216510.0,200100.0
+HR_Karnal,Haryana,Karnal,390964.0,349585.0
+HR_Kurukshetra,Haryana,Kurukshetra,238043.0,216654.0
+HR_Mahendragarh,Haryana,Mahendragarh,246860.0,219830.0
+HR_Nuh,Haryana,Nuh,117069.0,62950.0
+HR_Palwal,Haryana,Palwal,237818.0,185444.0
+HR_Panchkula,Haryana,Panchkula,248571.0,217160.0
+HR_Panipat,Haryana,Panipat,268697.0,202914.0
+HR_Rewari,Haryana,Rewari,274808.0,207909.0
+HR_Rohtak,Haryana,Rohtak,274421.0,227804.0
+HR_Sirsa,Haryana,Sirsa,294583.0,265072.0
+HR_Sonipat,Haryana,Sonipat,422842.0,344123.0
+HR_Yamunanagar,Haryana,Yamunanagar,302254.0,262863.0
+JH_Bokaro,Jharkhand,Bokaro,354075.0,258267.0
+JH_Chatra,Jharkhand,Chatra,166385.0,143524.0
+JH_Deoghar,Jharkhand,Deoghar,259122.0,202763.0
+JH_Dhanbad,Jharkhand,Dhanbad,463116.0,343719.0
+JH_Dumka,Jharkhand,Dumka,223229.0,209020.0
+JH_East Singhbhum,Jharkhand,East Singhbhum,586703.0,455385.0
+JH_Garhwa,Jharkhand,Garhwa,199295.0,154567.0
+JH_Giridih,Jharkhand,Giridih,356495.0,317838.0
+JH_Godda,Jharkhand,Godda,242630.0,203679.0
+JH_Gumla,Jharkhand,Gumla,168779.0,171524.0
+JH_Hazaribagh,Jharkhand,Hazaribagh,331367.0,278616.0
+JH_Jamtara,Jharkhand,Jamtara,160687.0,130178.0
+JH_Khunti,Jharkhand,Khunti,105744.0,92400.0
+JH_Koderma,Jharkhand,Koderma,161021.0,152556.0
+JH_Latehar,Jharkhand,Latehar,117258.0,87274.0
+JH_Lohardaga,Jharkhand,Lohardaga,89015.0,75748.0
+JH_Pakur,Jharkhand,Pakur,148358.0,126733.0
+JH_Palamu,Jharkhand,Palamu,339523.0,281105.0
+JH_Ramgarh,Jharkhand,Ramgarh,193384.0,150716.0
+JH_Ranchi,Jharkhand,Ranchi,597771.0,490760.0
+JH_Sahibganj,Jharkhand,Sahibganj,170404.0,137015.0
+JH_Saraikela-Kharsawan,Jharkhand,Saraikela-Kharsawan,203706.0,140738.0
+JH_Simdega,Jharkhand,Simdega,118236.0,113006.0
+JH_West Singhbhum,Jharkhand,West Singhbhum,241844.0,215353.0
+JK_Anantnag,Jammu and Kashmir,Anantnag,271586.0,198723.0
+JK_Bandipora,Jammu and Kashmir,Bandipora,114069.0,75338.0
+JK_Baramulla,Jammu and Kashmir,Baramulla,307763.0,227393.0
+JK_Budgam,Jammu and Kashmir,Budgam,240481.0,163405.0
+JK_Doda,Jammu and Kashmir,Doda,132992.0,111474.0
+JK_Ganderbal,Jammu and Kashmir,Ganderbal,104170.0,77123.0
+JK_Jammu,Jammu and Kashmir,Jammu,565690.0,466370.0
+JK_Kathua,Jammu and Kashmir,Kathua,206754.0,181006.0
+JK_Kishtwar,Jammu and Kashmir,Kishtwar,77029.0,57064.0
+JK_Kulgam,Jammu and Kashmir,Kulgam,157585.0,115733.0
+JK_Kupwara,Jammu and Kashmir,Kupwara,246610.0,174972.0
+JK_Pulwama,Jammu and Kashmir,Pulwama,187393.0,132800.0
+JK_Punch,Jammu and Kashmir,Punch,165149.0,133352.0
+JK_Rajouri,Jammu and Kashmir,Rajouri,203896.0,165647.0
+JK_Ramban,Jammu and Kashmir,Ramban,128239.0,84631.0
+JK_Reasi,Jammu and Kashmir,Reasi,128390.0,91682.0
+JK_Samba,Jammu and Kashmir,Samba,141883.0,114651.0
+JK_Shopiyan,Jammu and Kashmir,Shopiyan,95594.0,67108.0
+JK_Srinagar,Jammu and Kashmir,Srinagar,401728.0,216555.0
+JK_Udhampur,Jammu and Kashmir,Udhampur,201025.0,185355.0
+KA_Bagalkote,Karnataka,Bagalkote,416242.0,435412.0
+KA_Ballari,Karnataka,Ballari,632320.0,621736.0
+KA_Belagavi,Karnataka,Belagavi,1013034.0,1034774.0
+KA_Bengaluru Rural,Karnataka,Bengaluru Rural,302536.0,258282.0
+KA_Bengaluru Urban,Karnataka,Bengaluru Urban,4982064.0,4336143.0
+KA_Bidar,Karnataka,Bidar,369466.0,389268.0
+KA_Chamarajanagara,Karnataka,Chamarajanagara,236518.0,273939.0
+KA_Chikkaballapura,Karnataka,Chikkaballapura,327548.0,341010.0
+KA_Chikkamagaluru,Karnataka,Chikkamagaluru,264764.0,291843.0
+KA_Chitradurga,Karnataka,Chitradurga,407989.0,425803.0
+KA_Dakshina Kannada,Karnataka,Dakshina Kannada,645258.0,659918.0
+KA_Davanagere,Karnataka,Davanagere,378527.0,390354.0
+KA_Dharwad,Karnataka,Dharwad,475522.0,454227.0
+KA_Gadag,Karnataka,Gadag,238596.0,257706.0
+KA_Hassan,Karnataka,Hassan,432594.0,482569.0
+KA_Haveri,Karnataka,Haveri,285464.0,296798.0
+KA_Kalaburagi,Karnataka,Kalaburagi,475188.0,456446.0
+KA_Kodagu,Karnataka,Kodagu,156951.0,170446.0
+KA_Kolar,Karnataka,Kolar,426858.0,419225.0
+KA_Koppal,Karnataka,Koppal,300432.0,322670.0
+KA_Mandya,Karnataka,Mandya,433044.0,517419.0
+KA_Mysuru,Karnataka,Mysuru,943733.0,995609.0
+KA_Raichur,Karnataka,Raichur,349592.0,366849.0
+KA_Ramanagara,Karnataka,Ramanagara,312826.0,354608.0
+KA_Shivamogga,Karnataka,Shivamogga,426647.0,441172.0
+KA_Tumakuru,Karnataka,Tumakuru,631738.0,659570.0
+KA_Udupi,Karnataka,Udupi,386227.0,435026.0
+KA_Uttara Kannada,Karnataka,Uttara Kannada,382786.0,380397.0
+KA_Vijayapura,Karnataka,Vijayapura,465816.0,438718.0
+KA_Yadgir,Karnataka,Yadgir,232423.0,253277.0
+KL_Alappuzha,Kerala,Alappuzha,680075.0,795914.0
+KL_Ernakulam,Kerala,Ernakulam,1449609.0,1518939.0
+KL_Idukki,Kerala,Idukki,407294.0,430513.0
+KL_Kannur,Kerala,Kannur,836091.0,901000.0
+KL_Kasaragod,Kerala,Kasaragod,457005.0,467843.0
+KL_Kollam,Kerala,Kollam,834658.0,987286.0
+KL_Kottayam,Kerala,Kottayam,700283.0,783876.0
+KL_Kozhikode,Kerala,Kozhikode,1030967.0,1061123.0
+KL_Malappuram,Kerala,Malappuram,1020267.0,933635.0
+KL_Palakkad,Kerala,Palakkad,788189.0,841858.0
+KL_Pathanamthitta,Kerala,Pathanamthitta,576655.0,684620.0
+KL_Thiruvananthapuram,Kerala,Thiruvananthapuram,1262273.0,1436743.0
+KL_Thrissur,Kerala,Thrissur,1035617.0,1199038.0
+KL_Wayanad,Kerala,Wayanad,393612.0,419754.0
+LA_Kargil,Ladakh,Kargil,60958.0,51833.0
+LA_Leh,Ladakh,Leh,87110.0,62432.0
+LD_Lakshadweep,Lakshadweep,Lakshadweep,37963.0,31585.0
+MH_Ahmednagar,Maharashtra,Ahmednagar,780030.0,629592.0
+MH_Akola,Maharashtra,Akola,319445.0,278852.0
+MH_Amravati,Maharashtra,Amravati,495216.0,448438.0
+MH_Aurangabad,Maharashtra,Aurangabad,751545.0,578850.0
+MH_Beed,Maharashtra,Beed,440266.0,361228.0
+MH_Bhandara,Maharashtra,Bhandara,307875.0,312103.0
+MH_Buldhana,Maharashtra,Buldhana,469174.0,418480.0
+MH_Chandrapur,Maharashtra,Chandrapur,406125.0,344447.0
+MH_Dhule,Maharashtra,Dhule,368320.0,334924.0
+MH_Gadchiroli,Maharashtra,Gadchiroli,189679.0,166625.0
+MH_Gondia,Maharashtra,Gondia,348013.0,352187.0
+MH_Hingoli,Maharashtra,Hingoli,161871.0,141709.0
+MH_Jalgaon,Maharashtra,Jalgaon,591824.0,511656.0
+MH_Jalna,Maharashtra,Jalna,365153.0,316707.0
+MH_Kolhapur,Maharashtra,Kolhapur,1009605.0,971848.0
+MH_Latur,Maharashtra,Latur,441416.0,376636.0
+MH_Mumbai,Maharashtra,Mumbai,4632533.0,3611177.0
+MH_Nagpur,Maharashtra,Nagpur,1402315.0,1268434.0
+MH_Nanded,Maharashtra,Nanded,476499.0,424974.0
+MH_Nandurbar,Maharashtra,Nandurbar,282298.0,253043.0
+MH_Nashik,Maharashtra,Nashik,1161244.0,940917.0
+MH_Osmanabad,Maharashtra,Osmanabad,272176.0,224452.0
+MH_Palghar,Maharashtra,Palghar,455167.0,363519.0
+MH_Parbhani,Maharashtra,Parbhani,313920.0,283321.0
+MH_Pune,Maharashtra,Pune,3800332.0,3068934.0
+MH_Raigad,Maharashtra,Raigad,581291.0,417124.0
+MH_Ratnagiri,Maharashtra,Ratnagiri,298899.0,256070.0
+MH_Sangli,Maharashtra,Sangli,745587.0,705407.0
+MH_Satara,Maharashtra,Satara,760605.0,706382.0
+MH_Sindhudurg,Maharashtra,Sindhudurg,205042.0,194083.0
+MH_Solapur,Maharashtra,Solapur,622805.0,502968.0
+MH_Thane,Maharashtra,Thane,2168411.0,1793826.0
+MH_Wardha,Maharashtra,Wardha,300251.0,287780.0
+MH_Washim,Maharashtra,Washim,281304.0,249055.0
+MH_Yavatmal,Maharashtra,Yavatmal,477511.0,409404.0
+ML_East Garo Hills,Meghalaya,East Garo Hills,27235.0,21986.0
+ML_East Jaintia Hills,Meghalaya,East Jaintia Hills,41114.0,25739.0
+ML_East Khasi Hills,Meghalaya,East Khasi Hills,195161.0,176798.0
+ML_North Garo Hills,Meghalaya,North Garo Hills,32599.0,30124.0
+ML_Ribhoi,Meghalaya,Ribhoi,53794.0,42836.0
+ML_South Garo Hills,Meghalaya,South Garo Hills,22137.0,18583.0
+ML_South West Garo Hills,Meghalaya,South West Garo Hills,39342.0,38550.0
+ML_South West Khasi Hills,Meghalaya,South West Khasi Hills,20112.0,16776.0
+ML_West Garo Hills,Meghalaya,West Garo Hills,122821.0,113370.0
+ML_West Jaintia Hills,Meghalaya,West Jaintia Hills,47952.0,49791.0
+ML_West Khasi Hills,Meghalaya,West Khasi Hills,44869.0,44312.0
+MN_Bishnupur,Manipur,Bishnupur,72899.0,70880.0
+MN_Chandel,Manipur,Chandel,19632.0,12999.0
+MN_Churachandpur,Manipur,Churachandpur,65361.0,56997.0
+MN_Imphal East,Manipur,Imphal East,159340.0,140352.0
+MN_Imphal West,Manipur,Imphal West,191413.0,169415.0
+MN_Jiribam,Manipur,Jiribam,16662.0,12251.0
+MN_Kakching,Manipur,Kakching,47859.0,44162.0
+MN_Kamjong,Manipur,Kamjong,6703.0,4603.0
+MN_Kangpokpi,Manipur,Kangpokpi,23416.0,19793.0
+MN_Noney,Manipur,Noney,13189.0,7266.0
+MN_Pherzawl,Manipur,Pherzawl,7051.0,6724.0
+MN_Senapati,Manipur,Senapati,18511.0,11722.0
+MN_Tamenglong,Manipur,Tamenglong,14362.0,9048.0
+MN_Tengnoupal,Manipur,Tengnoupal,17513.0,10916.0
+MN_Thoubal,Manipur,Thoubal,87188.0,77039.0
+MN_Ukhrul,Manipur,Ukhrul,15022.0,9607.0
+MP_Agar Malwa,Madhya Pradesh,Agar Malwa,163787.0,139511.0
+MP_Alirajpur,Madhya Pradesh,Alirajpur,147710.0,127698.0
+MP_Anuppur,Madhya Pradesh,Anuppur,181481.0,164653.0
+MP_Ashoknagar,Madhya Pradesh,Ashoknagar,215235.0,172902.0
+MP_Balaghat,Madhya Pradesh,Balaghat,406647.0,391426.0
+MP_Barwani,Madhya Pradesh,Barwani,276280.0,247053.0
+MP_Betul,Madhya Pradesh,Betul,429232.0,375355.0
+MP_Bhind,Madhya Pradesh,Bhind,393971.0,306749.0
+MP_Bhopal,Madhya Pradesh,Bhopal,1152691.0,933578.0
+MP_Burhanpur,Madhya Pradesh,Burhanpur,218411.0,193015.0
+MP_Chhatarpur,Madhya Pradesh,Chhatarpur,421192.0,316189.0
+MP_Chhindwara,Madhya Pradesh,Chhindwara,525922.0,453564.0
+MP_Damoh,Madhya Pradesh,Damoh,317668.0,278788.0
+MP_Datia,Madhya Pradesh,Datia,222928.0,185888.0
+MP_Dewas,Madhya Pradesh,Dewas,424764.0,377492.0
+MP_Dhar,Madhya Pradesh,Dhar,490973.0,429507.0
+MP_Dindori,Madhya Pradesh,Dindori,175675.0,178156.0
+MP_Guna,Madhya Pradesh,Guna,311643.0,250407.0
+MP_Gwalior,Madhya Pradesh,Gwalior,713478.0,568426.0
+MP_Harda,Madhya Pradesh,Harda,212976.0,183686.0
+MP_Hoshangabad,Madhya Pradesh,Hoshangabad,345663.0,300243.0
+MP_Indore,Madhya Pradesh,Indore,1798116.0,1521598.0
+MP_Jabalpur,Madhya Pradesh,Jabalpur,866830.0,779684.0
+MP_Jhabua,Madhya Pradesh,Jhabua,203166.0,189864.0
+MP_Katni,Madhya Pradesh,Katni,308371.0,262117.0
+MP_Khandwa,Madhya Pradesh,Khandwa,348463.0,317421.0
+MP_Khargone,Madhya Pradesh,Khargone,416226.0,388760.0
+MP_Mandla,Madhya Pradesh,Mandla,218683.0,215990.0
+MP_Mandsaur,Madhya Pradesh,Mandsaur,335720.0,292566.0
+MP_Morena,Madhya Pradesh,Morena,449303.0,357142.0
+MP_Narsinghpur,Madhya Pradesh,Narsinghpur,306105.0,268609.0
+MP_Neemuch,Madhya Pradesh,Neemuch,249954.0,219509.0
+MP_Panna,Madhya Pradesh,Panna,241149.0,188822.0
+MP_Raisen,Madhya Pradesh,Raisen,347790.0,275191.0
+MP_Rajgarh,Madhya Pradesh,Rajgarh,421584.0,371363.0
+MP_Ratlam,Madhya Pradesh,Ratlam,403671.0,353441.0
+MP_Rewa,Madhya Pradesh,Rewa,570478.0,459067.0
+MP_Sagar,Madhya Pradesh,Sagar,711568.0,569813.0
+MP_Satna,Madhya Pradesh,Satna,489179.0,391212.0
+MP_Sehore,Madhya Pradesh,Sehore,445565.0,382563.0
+MP_Seoni,Madhya Pradesh,Seoni,330650.0,310846.0
+MP_Shahdol,Madhya Pradesh,Shahdol,316731.0,268859.0
+MP_Shajapur,Madhya Pradesh,Shajapur,258525.0,233941.0
+MP_Sheopur,Madhya Pradesh,Sheopur,123656.0,102117.0
+MP_Shivpuri,Madhya Pradesh,Shivpuri,367642.0,293234.0
+MP_Sidhi,Madhya Pradesh,Sidhi,246169.0,194349.0
+MP_Singrauli,Madhya Pradesh,Singrauli,286171.0,181690.0
+MP_Tikamgarh,Madhya Pradesh,Tikamgarh,364107.0,275611.0
+MP_Ujjain,Madhya Pradesh,Ujjain,720147.0,658979.0
+MP_Umaria,Madhya Pradesh,Umaria,152709.0,131138.0
+MP_Vidisha,Madhya Pradesh,Vidisha,368929.0,305276.0
+MZ_Aizawl,Mizoram,Aizawl,199697.0,204970.0
+MZ_Champhai,Mizoram,Champhai,47255.0,47539.0
+MZ_Kolasib,Mizoram,Kolasib,29162.0,29778.0
+MZ_Lawngtlai,Mizoram,Lawngtlai,26340.0,23594.0
+MZ_Lunglei,Mizoram,Lunglei,61220.0,56680.0
+MZ_Mamit,Mizoram,Mamit,29167.0,25739.0
+MZ_Saiha,Mizoram,Saiha,20803.0,20188.0
+MZ_Serchhip,Mizoram,Serchhip,29174.0,26351.0
+NL_Dimapur,Nagaland,Dimapur,161334.0,117438.0
+NL_Kiphire,Nagaland,Kiphire,10313.0,5484.0
+NL_Kohima,Nagaland,Kohima,69226.0,53099.0
+NL_Longleng,Nagaland,Longleng,14398.0,11446.0
+NL_Mokokchung,Nagaland,Mokokchung,45819.0,41113.0
+NL_Mon,Nagaland,Mon,46795.0,36044.0
+NL_Peren,Nagaland,Peren,13794.0,9299.0
+NL_Phek,Nagaland,Phek,23634.0,15302.0
+NL_Tuensang,Nagaland,Tuensang,26964.0,17165.0
+NL_Wokha,Nagaland,Wokha,24020.0,20620.0
+NL_Zunheboto,Nagaland,Zunheboto,24333.0,19561.0
+OR_Angul,Odisha,Angul,263323.0,195222.0
+OR_Balangir,Odisha,Balangir,339085.0,295824.0
+OR_Balasore,Odisha,Balasore,498510.0,455350.0
+OR_Bargarh,Odisha,Bargarh,286069.0,252237.0
+OR_Bhadrak,Odisha,Bhadrak,351682.0,317146.0
+OR_Boudh,Odisha,Boudh,88272.0,73619.0
+OR_Cuttack,Odisha,Cuttack,667910.0,546707.0
+OR_Deogarh,Odisha,Deogarh,74651.0,65319.0
+OR_Dhenkanal,Odisha,Dhenkanal,281984.0,230933.0
+OR_Gajapati,Odisha,Gajapati,117303.0,123347.0
+OR_Ganjam,Odisha,Ganjam,979283.0,1005580.0
+OR_Jagatsinghpur,Odisha,Jagatsinghpur,242701.0,199935.0
+OR_Jajpur,Odisha,Jajpur,385009.0,307292.0
+OR_Jharsuguda,Odisha,Jharsuguda,173821.0,137013.0
+OR_Kalahandi,Odisha,Kalahandi,307083.0,277887.0
+OR_Kandhamal,Odisha,Kandhamal,136155.0,146819.0
+OR_Kendrapara,Odisha,Kendrapara,319630.0,304687.0
+OR_Kendujhar,Odisha,Kendujhar,363538.0,325575.0
+OR_Khordha,Odisha,Khordha,1394358.0,1108009.0
+OR_Koraput,Odisha,Koraput,312962.0,332483.0
+OR_Malkangiri,Odisha,Malkangiri,109015.0,106212.0
+OR_Mayurbhanj,Odisha,Mayurbhanj,416805.0,404926.0
+OR_Nabarangapur,Odisha,Nabarangapur,195863.0,202937.0
+OR_Nayagarh,Odisha,Nayagarh,208493.0,196156.0
+OR_Nuapada,Odisha,Nuapada,160491.0,153735.0
+OR_Puri,Odisha,Puri,440737.0,393801.0
+OR_Rayagada,Odisha,Rayagada,195726.0,202845.0
+OR_Sambalpur,Odisha,Sambalpur,346931.0,300022.0
+OR_Subarnapur,Odisha,Subarnapur,151638.0,138248.0
+OR_Sundargarh,Odisha,Sundargarh,458199.0,413559.0
+PB_Amritsar,Punjab,Amritsar,452315.0,360440.0
+PB_Barnala,Punjab,Barnala,98178.0,76442.0
+PB_Bathinda,Punjab,Bathinda,227941.0,157781.0
+PB_Faridkot,Punjab,Faridkot,120423.0,103003.0
+PB_Fatehgarh Sahib,Punjab,Fatehgarh Sahib,126794.0,107148.0
+PB_Fazilka,Punjab,Fazilka,139579.0,106593.0
+PB_Ferozepur,Punjab,Ferozepur,127566.0,100115.0
+PB_Gurdaspur,Punjab,Gurdaspur,376977.0,332649.0
+PB_Hoshiarpur,Punjab,Hoshiarpur,495349.0,467582.0
+PB_Jalandhar,Punjab,Jalandhar,589702.0,510611.0
+PB_Kapurthala,Punjab,Kapurthala,167877.0,143564.0
+PB_Ludhiana,Punjab,Ludhiana,945701.0,648034.0
+PB_Mansa,Punjab,Mansa,96961.0,69381.0
+PB_Moga,Punjab,Moga,159117.0,132469.0
+PB_Pathankot,Punjab,Pathankot,187386.0,174459.0
+PB_Patiala,Punjab,Patiala,405231.0,324323.0
+PB_Rupnagar,Punjab,Rupnagar,148693.0,124639.0
+PB_S.A.S. Nagar,Punjab,S.A.S. Nagar,499224.0,336914.0
+PB_Sangrur,Punjab,Sangrur,217329.0,162583.0
+PB_Shahid Bhagat Singh Nagar,Punjab,Shahid Bhagat Singh Nagar,145677.0,135550.0
+PB_Sri Muktsar Sahib,Punjab,Sri Muktsar Sahib,171676.0,132670.0
+PB_Tarn Taran,Punjab,Tarn Taran,175742.0,140924.0
+PY_Karaikal,Puducherry,Karaikal,53770.0,61715.0
+PY_Mahe,Puducherry,Mahe,19653.0,24378.0
+PY_Puducherry,Puducherry,Puducherry,287451.0,294662.0
+PY_Yanam,Puducherry,Yanam,15795.0,15944.0
+RJ_Ajmer,Rajasthan,Ajmer,852319.0,824695.0
+RJ_Alwar,Rajasthan,Alwar,1080777.0,919747.0
+RJ_Banswara,Rajasthan,Banswara,458731.0,460480.0
+RJ_Baran,Rajasthan,Baran,323623.0,292797.0
+RJ_Barmer,Rajasthan,Barmer,694232.0,593843.0
+RJ_Bharatpur,Rajasthan,Bharatpur,646301.0,567004.0
+RJ_Bhilwara,Rajasthan,Bhilwara,635525.0,607748.0
+RJ_Bikaner,Rajasthan,Bikaner,737337.0,618924.0
+RJ_Bundi,Rajasthan,Bundi,337773.0,313399.0
+RJ_Chittorgarh,Rajasthan,Chittorgarh,437832.0,393279.0
+RJ_Churu,Rajasthan,Churu,546219.0,520080.0
+RJ_Dausa,Rajasthan,Dausa,442789.0,381047.0
+RJ_Dholpur,Rajasthan,Dholpur,320746.0,289681.0
+RJ_Dungarpur,Rajasthan,Dungarpur,317025.0,361879.0
+RJ_Ganganagar,Rajasthan,Ganganagar,533948.0,474755.0
+RJ_Hanumangarh,Rajasthan,Hanumangarh,490952.0,440853.0
+RJ_Jaipur,Rajasthan,Jaipur,2197202.0,1762719.0
+RJ_Jaisalmer,Rajasthan,Jaisalmer,205720.0,156721.0
+RJ_Jalore,Rajasthan,Jalore,460102.0,433279.0
+RJ_Jhalawar,Rajasthan,Jhalawar,399726.0,354541.0
+RJ_Jhunjhunu,Rajasthan,Jhunjhunu,650271.0,650201.0
+RJ_Jodhpur,Rajasthan,Jodhpur,1127296.0,974875.0
+RJ_Karauli,Rajasthan,Karauli,382624.0,349509.0
+RJ_Kota,Rajasthan,Kota,654936.0,562392.0
+RJ_Nagaur,Rajasthan,Nagaur,971492.0,955901.0
+RJ_Pali,Rajasthan,Pali,548749.0,509528.0
+RJ_Pratapgarh,Rajasthan,Pratapgarh,235527.0,226581.0
+RJ_Rajsamand,Rajasthan,Rajsamand,294584.0,299360.0
+RJ_Sawai Madhopur,Rajasthan,Sawai Madhopur,370609.0,311688.0
+RJ_Sikar,Rajasthan,Sikar,836233.0,786990.0
+RJ_Sirohi,Rajasthan,Sirohi,291353.0,279908.0
+RJ_Tonk,Rajasthan,Tonk,407745.0,378563.0
+RJ_Udaipur,Rajasthan,Udaipur,807450.0,757749.0
+SK_East Sikkim,Sikkim,East Sikkim,182978.0,149478.0
+SK_North Sikkim,Sikkim,North Sikkim,23250.0,18056.0
+SK_South Sikkim,Sikkim,South Sikkim,82792.0,70508.0
+SK_West Sikkim,Sikkim,West Sikkim,70335.0,61257.0
+TG_Adilabad,Telangana,Adilabad,72592.0,64604.0
+TG_Bhadradri Kothagudem,Telangana,Bhadradri Kothagudem,180824.0,171596.0
+TG_Hyderabad,Telangana,Hyderabad,1895455.0,1569352.0
+TG_Jagtial,Telangana,Jagtial,148244.0,156942.0
+TG_Jangaon,Telangana,Jangaon,68306.0,79922.0
+TG_Jayashankar Bhupalapally,Telangana,Jayashankar Bhupalapally,88015.0,93714.0
+TG_Jogulamba Gadwal,Telangana,Jogulamba Gadwal,57244.0,51096.0
+TG_Kamareddy,Telangana,Kamareddy,152032.0,163613.0
+TG_Karimnagar,Telangana,Karimnagar,280866.0,281983.0
+TG_Khammam,Telangana,Khammam,263602.0,263785.0
+TG_Komaram Bheem,Telangana,Komaram Bheem,49047.0,44802.0
+TG_Mahabubabad,Telangana,Mahabubabad,113394.0,139442.0
+TG_Mahabubnagar,Telangana,Mahabubnagar,113474.0,113379.0
+TG_Mancherial,Telangana,Mancherial,143580.0,132667.0
+TG_Medak,Telangana,Medak,115770.0,117197.0
+TG_Medchal Malkajgiri,Telangana,Medchal Malkajgiri,1098795.0,1004030.0
+TG_Mulugu,Telangana,Mulugu,59288.0,65844.0
+TG_Nagarkurnool,Telangana,Nagarkurnool,95541.0,102376.0
+TG_Nalgonda,Telangana,Nalgonda,213335.0,206239.0
+TG_Narayanpet,Telangana,Narayanpet,39851.0,39563.0
+TG_Nirmal,Telangana,Nirmal,118739.0,130721.0
+TG_Nizamabad,Telangana,Nizamabad,221231.0,206147.0
+TG_Peddapalli,Telangana,Peddapalli,184516.0,175006.0
+TG_Rajanna Sircilla,Telangana,Rajanna Sircilla,105513.0,118235.0
+TG_Ranga Reddy,Telangana,Ranga Reddy,1190270.0,971232.0
+TG_Sangareddy,Telangana,Sangareddy,250799.0,220502.0
+TG_Siddipet,Telangana,Siddipet,194048.0,225830.0
+TG_Suryapet,Telangana,Suryapet,162080.0,171565.0
+TG_Vikarabad,Telangana,Vikarabad,83214.0,79801.0
+TG_Wanaparthy,Telangana,Wanaparthy,62003.0,63050.0
+TG_Warangal Rural,Telangana,Warangal Rural,84943.0,91446.0
+TG_Warangal Urban,Telangana,Warangal Urban,312088.0,310882.0
+TG_Yadadri Bhuvanagiri,Telangana,Yadadri Bhuvanagiri,176529.0,200999.0
+TN_Ariyalur,Tamil Nadu,Ariyalur,109974.0,110168.0
+TN_Chengalpattu,Tamil Nadu,Chengalpattu,483122.0,434306.0
+TN_Chennai,Tamil Nadu,Chennai,2387402.0,1995793.0
+TN_Coimbatore,Tamil Nadu,Coimbatore,1012854.0,913051.0
+TN_Cuddalore,Tamil Nadu,Cuddalore,360635.0,331387.0
+TN_Dharmapuri,Tamil Nadu,Dharmapuri,239383.0,248126.0
+TN_Dindigul,Tamil Nadu,Dindigul,324308.0,361958.0
+TN_Erode,Tamil Nadu,Erode,426311.0,421103.0
+TN_Kallakurichi,Tamil Nadu,Kallakurichi,168849.0,189465.0
+TN_Kancheepuram,Tamil Nadu,Kancheepuram,213993.0,139525.0
+TN_Kanyakumari,Tamil Nadu,Kanyakumari,325999.0,340810.0
+TN_Karur,Tamil Nadu,Karur,180258.0,182971.0
+TN_Krishnagiri,Tamil Nadu,Krishnagiri,383608.0,321728.0
+TN_Madurai,Tamil Nadu,Madurai,488513.0,486254.0
+TN_Nagapattinam,Tamil Nadu,Nagapattinam,224926.0,233779.0
+TN_Namakkal,Tamil Nadu,Namakkal,323218.0,338145.0
+TN_Nilgiris,Tamil Nadu,Nilgiris,238016.0,257201.0
+TN_Perambalur,Tamil Nadu,Perambalur,93629.0,111294.0
+TN_Pudukkottai,Tamil Nadu,Pudukkottai,232985.0,268996.0
+TN_Ramanathapuram,Tamil Nadu,Ramanathapuram,201757.0,257872.0
+TN_Ranipet,Tamil Nadu,Ranipet,160962.0,136002.0
+TN_Salem,Tamil Nadu,Salem,645323.0,619094.0
+TN_Sivaganga,Tamil Nadu,Sivaganga,194992.0,225507.0
+TN_Tenkasi,Tamil Nadu,Tenkasi,175296.0,197916.0
+TN_Thanjavur,Tamil Nadu,Thanjavur,338213.0,353968.0
+TN_Theni,Tamil Nadu,Theni,178055.0,196717.0
+TN_Thiruvallur,Tamil Nadu,Thiruvallur,495126.0,394271.0
+TN_Thiruvarur,Tamil Nadu,Thiruvarur,185033.0,190626.0
+TN_Thoothukkudi,Tamil Nadu,Thoothukkudi,243232.0,272379.0
+TN_Tiruchirappalli,Tamil Nadu,Tiruchirappalli,478505.0,494960.0
+TN_Tirunelveli,Tamil Nadu,Tirunelveli,230341.0,215850.0
+TN_Tirupathur,Tamil Nadu,Tirupathur,153620.0,181878.0
+TN_Tiruppur,Tamil Nadu,Tiruppur,462687.0,420340.0
+TN_Tiruvannamalai,Tamil Nadu,Tiruvannamalai,294320.0,390717.0
+TN_Vellore,Tamil Nadu,Vellore,250912.0,274891.0
+TN_Viluppuram,Tamil Nadu,Viluppuram,230128.0,276265.0
+TN_Virudhunagar,Tamil Nadu,Virudhunagar,322184.0,398785.0
+TR_Dhalai,Tripura,Dhalai,167402.0,146935.0
+TR_Gomati,Tripura,Gomati,178459.0,168867.0
+TR_Khowai,Tripura,Khowai,126534.0,120861.0
+TR_North Tripura,Tripura,North Tripura,186832.0,175911.0
+TR_Sipahijala,Tripura,Sipahijala,220866.0,208502.0
+TR_South Tripura,Tripura,South Tripura,203451.0,195760.0
+TR_Unokoti,Tripura,Unokoti,109149.0,107810.0
+TR_West Tripura,Tripura,West Tripura,477285.0,465375.0
+UP_Agra,Uttar Pradesh,Agra,795512.0,598013.0
+UP_Aligarh,Uttar Pradesh,Aligarh,521987.0,412469.0
+UP_Ambedkar Nagar,Uttar Pradesh,Ambedkar Nagar,320328.0,262037.0
+UP_Amethi,Uttar Pradesh,Amethi,305172.0,268085.0
+UP_Amroha,Uttar Pradesh,Amroha,259508.0,200984.0
+UP_Auraiya,Uttar Pradesh,Auraiya,199861.0,153322.0
+UP_Ayodhya,Uttar Pradesh,Ayodhya,377535.0,291418.0
+UP_Azamgarh,Uttar Pradesh,Azamgarh,667996.0,522833.0
+UP_Baghpat,Uttar Pradesh,Baghpat,303370.0,255114.0
+UP_Bahraich,Uttar Pradesh,Bahraich,581634.0,486763.0
+UP_Ballia,Uttar Pradesh,Ballia,372156.0,278905.0
+UP_Balrampur,Uttar Pradesh,Balrampur,368838.0,290430.0
+UP_Banda,Uttar Pradesh,Banda,263736.0,201864.0
+UP_Barabanki,Uttar Pradesh,Barabanki,481301.0,377317.0
+UP_Bareilly,Uttar Pradesh,Bareilly,730785.0,564262.0
+UP_Basti,Uttar Pradesh,Basti,427521.0,340192.0
+UP_Bhadohi,Uttar Pradesh,Bhadohi,248177.0,198652.0
+UP_Bijnor,Uttar Pradesh,Bijnor,546247.0,469609.0
+UP_Budaun,Uttar Pradesh,Budaun,345887.0,286034.0
+UP_Bulandshahr,Uttar Pradesh,Bulandshahr,637720.0,552274.0
+UP_Chandauli,Uttar Pradesh,Chandauli,266604.0,209519.0
+UP_Chitrakoot,Uttar Pradesh,Chitrakoot,156489.0,128247.0
+UP_Deoria,Uttar Pradesh,Deoria,448809.0,315559.0
+UP_Etah,Uttar Pradesh,Etah,227103.0,173072.0
+UP_Etawah,Uttar Pradesh,Etawah,239814.0,187501.0
+UP_Farrukhabad,Uttar Pradesh,Farrukhabad,251491.0,193659.0
+UP_Fatehpur,Uttar Pradesh,Fatehpur,366805.0,311923.0
+UP_Firozabad,Uttar Pradesh,Firozabad,348966.0,278489.0
+UP_Gautam Buddha Nagar,Uttar Pradesh,Gautam Buddha Nagar,1107153.0,686556.0
+UP_Ghaziabad,Uttar Pradesh,Ghaziabad,953460.0,731135.0
+UP_Ghazipur,Uttar Pradesh,Ghazipur,531548.0,426010.0
+UP_Gonda,Uttar Pradesh,Gonda,625754.0,501431.0
+UP_Gorakhpur,Uttar Pradesh,Gorakhpur,833818.0,659487.0
+UP_Hamirpur,Uttar Pradesh,Hamirpur,197910.0,165911.0
+UP_Hapur,Uttar Pradesh,Hapur,236111.0,196001.0
+UP_Hardoi,Uttar Pradesh,Hardoi,523801.0,416612.0
+UP_Hathras,Uttar Pradesh,Hathras,245889.0,209316.0
+UP_Jalaun,Uttar Pradesh,Jalaun,270648.0,218394.0
+UP_Jaunpur,Uttar Pradesh,Jaunpur,626163.0,515506.0
+UP_Jhansi,Uttar Pradesh,Jhansi,377306.0,302667.0
+UP_Kannauj,Uttar Pradesh,Kannauj,243126.0,182258.0
+UP_Kanpur Dehat,Uttar Pradesh,Kanpur Dehat,255433.0,196499.0
+UP_Kanpur Nagar,Uttar Pradesh,Kanpur Nagar,799072.0,621358.0
+UP_Kasganj,Uttar Pradesh,Kasganj,181866.0,147853.0
+UP_Kaushambi,Uttar Pradesh,Kaushambi,199643.0,150898.0
+UP_Kushinagar,Uttar Pradesh,Kushinagar,496647.0,340046.0
+UP_Lakhimpur Kheri,Uttar Pradesh,Lakhimpur Kheri,480339.0,351991.0
+UP_Lalitpur,Uttar Pradesh,Lalitpur,176127.0,147982.0
+UP_Lucknow,Uttar Pradesh,Lucknow,1279243.0,981595.0
+UP_Maharajganj,Uttar Pradesh,Maharajganj,365648.0,263661.0
+UP_Mahoba,Uttar Pradesh,Mahoba,190045.0,161638.0
+UP_Mainpuri,Uttar Pradesh,Mainpuri,242893.0,188440.0
+UP_Mathura,Uttar Pradesh,Mathura,490491.0,365765.0
+UP_Mau,Uttar Pradesh,Mau,301126.0,223943.0
+UP_Meerut,Uttar Pradesh,Meerut,827052.0,686377.0
+UP_Mirzapur,Uttar Pradesh,Mirzapur,438117.0,368079.0
+UP_Moradabad,Uttar Pradesh,Moradabad,474138.0,355767.0
+UP_Muzaffarnagar,Uttar Pradesh,Muzaffarnagar,452536.0,368538.0
+UP_Pilibhit,Uttar Pradesh,Pilibhit,312936.0,247998.0
+UP_Pratapgarh,Uttar Pradesh,Pratapgarh,368250.0,309171.0
+UP_Prayagraj,Uttar Pradesh,Prayagraj,855015.0,576766.0
+UP_Rae Bareli,Uttar Pradesh,Rae Bareli,317309.0,261734.0
+UP_Rampur,Uttar Pradesh,Rampur,272474.0,207404.0
+UP_Saharanpur,Uttar Pradesh,Saharanpur,626049.0,509073.0
+UP_Sambhal,Uttar Pradesh,Sambhal,248175.0,194831.0
+UP_Sant Kabir Nagar,Uttar Pradesh,Sant Kabir Nagar,204539.0,160923.0
+UP_Shahjahanpur,Uttar Pradesh,Shahjahanpur,413341.0,303347.0
+UP_Shamli,Uttar Pradesh,Shamli,218382.0,165538.0
+UP_Shrawasti,Uttar Pradesh,Shrawasti,203634.0,154776.0
+UP_Siddharthnagar,Uttar Pradesh,Siddharthnagar,461597.0,365545.0
+UP_Sitapur,Uttar Pradesh,Sitapur,501080.0,388460.0
+UP_Sonbhadra,Uttar Pradesh,Sonbhadra,247995.0,171199.0
+UP_Sultanpur,Uttar Pradesh,Sultanpur,334175.0,273720.0
+UP_Unnao,Uttar Pradesh,Unnao,388774.0,326815.0
+UP_Varanasi,Uttar Pradesh,Varanasi,806870.0,585817.0
+UT_Almora,Uttarakhand,Almora,197074.0,238888.0
+UT_Bageshwar,Uttarakhand,Bageshwar,109121.0,125803.0
+UT_Chamoli,Uttarakhand,Chamoli,157374.0,167737.0
+UT_Champawat,Uttarakhand,Champawat,111243.0,112086.0
+UT_Dehradun,Uttarakhand,Dehradun,755849.0,710300.0
+UT_Haridwar,Uttarakhand,Haridwar,638903.0,480035.0
+UT_Nainital,Uttarakhand,Nainital,377192.0,364340.0
+UT_Pauri Garhwal,Uttarakhand,Pauri Garhwal,213514.0,241005.0
+UT_Pithoragarh,Uttarakhand,Pithoragarh,157849.0,169121.0
+UT_Rudraprayag,Uttarakhand,Rudraprayag,96131.0,112767.0
+UT_Tehri Garhwal,Uttarakhand,Tehri Garhwal,191238.0,217170.0
+UT_Udham Singh Nagar,Uttarakhand,Udham Singh Nagar,545361.0,442222.0
+UT_Uttarkashi,Uttarakhand,Uttarkashi,142450.0,140890.0
+WB_Alipurduar,West Bengal,Alipurduar,273804.0,298351.0
+WB_Bankura,West Bengal,Bankura,558526.0,564369.0
+WB_Birbhum,West Bengal,Birbhum,681754.0,689969.0
+WB_Cooch Behar,West Bengal,Cooch Behar,383967.0,320896.0
+WB_Dakshin Dinajpur,West Bengal,Dakshin Dinajpur,295862.0,280159.0
+WB_Darjeeling,West Bengal,Darjeeling,507310.0,524262.0
+WB_Hooghly,West Bengal,Hooghly,1088816.0,988122.0
+WB_Howrah,West Bengal,Howrah,941563.0,823722.0
+WB_Jalpaiguri,West Bengal,Jalpaiguri,324945.0,330728.0
+WB_Jhargram,West Bengal,Jhargram,175069.0,148045.0
+WB_Kalimpong,West Bengal,Kalimpong,99771.0,104044.0
+WB_Kolkata,West Bengal,Kolkata,2871493.0,2288656.0
+WB_Malda,West Bengal,Malda,522087.0,455962.0
+WB_Murshidabad,West Bengal,Murshidabad,876992.0,788829.0
+WB_Nadia,West Bengal,Nadia,732551.0,688465.0
+WB_North 24 Parganas,West Bengal,North 24 Parganas,2274579.0,1955924.0
+WB_Paschim Bardhaman,West Bengal,Paschim Bardhaman,587059.0,457639.0
+WB_Paschim Medinipur,West Bengal,Paschim Medinipur,735054.0,593166.0
+WB_Purba Bardhaman,West Bengal,Purba Bardhaman,729148.0,665394.0
+WB_Purba Medinipur,West Bengal,Purba Medinipur,1110995.0,1099904.0
+WB_Purulia,West Bengal,Purulia,418785.0,368255.0
+WB_South 24 Parganas,West Bengal,South 24 Parganas,1476614.0,1383811.0
+WB_Uttar Dinajpur,West Bengal,Uttar Dinajpur,386259.0,327606.0
